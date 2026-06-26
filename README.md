@@ -35,7 +35,7 @@ Days 1-20 only ran on my laptop. A project that only works on `localhost` doesn'
 
 **Locally:**
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/PrashikSawant/Deployed-full-stack-app>
 cd Day21-Deployment
 python -m venv venv
 .\venv\Scripts\activate
